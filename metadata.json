@@ -1,0 +1,7 @@
+{
+  "name": "Kakarot Development",
+  "description": "Modern software and digital development studio crafting responsive websites, custom Discord bots, and powerful workflow automation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
