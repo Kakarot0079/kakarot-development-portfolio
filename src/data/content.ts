@@ -203,7 +203,7 @@ export const PRICING_PLANS: PricingPlan[] = [
   {
     id: 'website-starter',
     title: 'WEBSITE STARTER',
-    priceStartingAt: '$75',
+    priceStartingAt: '$50',
     popular: false,
     features: [
       '1–3 pages',
@@ -238,7 +238,7 @@ export const PRICING_PLANS: PricingPlan[] = [
   {
     id: 'custom-development',
     title: 'CUSTOM DEVELOPMENT',
-    priceStartingAt: '$50',
+    priceStartingAt: '$75',
     popular: false,
     features: [
       'Custom requirements',
